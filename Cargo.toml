@@ -1,0 +1,10 @@
+[package]
+name = "fmtcsv"
+version = "0.1.0"
+authors = ["swissChili <swisschili@fastmail.com>"]
+edition = "2018"
+
+[dependencies]
+iui = "0.3"
+nfd = "0.0.4"
+csv = "1.1"
